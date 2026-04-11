@@ -14,7 +14,7 @@ Học phần Tư duy tính toán
 ---
 
 ## Thực hành tuần 2:
-[homework2](https://github.com/25024009-TranBaoMinh/Homework/blob/main/homework2.ipynb)
+[BaiTapTuan2_NhapXuatDuLieu](https://github.com/25024009-TranBaoMinh/Homework/blob/main/BaiTapTuan2_NhapXuatDuLieu.ipynb)
 
 ---
 
