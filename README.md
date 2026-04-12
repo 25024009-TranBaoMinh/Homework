@@ -19,7 +19,7 @@ Học phần Tư duy tính toán
 ---
 
 ## Thực hành tuần 3:
-
+[Homework2](https://github.com/25024009-TranBaoMinh/Homework/blob/main/Homework2.ipynb)
 
 ---
 
