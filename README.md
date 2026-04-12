@@ -2,9 +2,9 @@
 ## Bài tập về nhà
 Học phần Tư duy tính toán
 
-**Họ tên:** Trần Bảo Minh
-**MSV:   ** 25024009
-**Lớp:   ** 2526II_UET.COM1050_15
+**Họ tên**: Trần Bảo Minh\
+**MSV:** 25024009\
+**Lớp:** 2526II_UET.COM1050_15
 
 ---
 
