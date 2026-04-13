@@ -1,6 +1,6 @@
 # Homework
 ## Bài tập về nhà
-Học phần Tư duy tính toán
+Học phần **Tư duy tính toán**
 
 **Họ tên**: Trần Bảo Minh\
 **MSV:** 25024009\
