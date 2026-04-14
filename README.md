@@ -25,3 +25,4 @@ Học phần **Tư duy tính toán**
 ---
 
 ## Thực hành tuần 4
+[Homework3](https://github.com/25024009-TranBaoMinh/Homework/blob/main/Homework3.ipynb)
