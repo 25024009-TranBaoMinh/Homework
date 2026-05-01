@@ -30,4 +30,5 @@ Học phần **Tư duy tính toán**
 ---
 
 ## Thực hành tuần 5
-[BaiTapTuan4_VongLap](https://github.com/25024009-TranBaoMinh/Homework/blob/main/BaiTapTuan4_VongLap.ipynb)
+[BaiTapTuan4_VongLap](https://github.com/25024009-TranBaoMinh/Homework/blob/main/BaiTapTuan4_VongLap.ipynb)\
+[Homework4](https://github.com/25024009-TranBaoMinh/Homework/blob/main/Homework4.ipynb)
